@@ -1,0 +1,131 @@
+.paragraph{
+    display: inline-block;
+}
+/*HEADER START*/
+.cont{
+    background-image: url(../images/container.png);
+    position: relative;
+    background-size: cover;
+}
+.fas{
+    color: black;
+    padding-right: 10px;
+}
+
+.dual{
+    color:#8BC53D;
+    display: inline;
+}    
+.inline{
+        display: inline;
+       
+}
+
+.font-head{
+    left: 0;
+    right: 10px;
+    width: 30px;
+    background:black;
+    position:absolute;
+    top: 20%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.top{
+    color: black;
+}
+.btn{
+    background-color: #8bc53d;
+    border-radius: 18px;
+    width: 120px;
+    height: 45px;
+    color: #ffffff;   
+}
+.social{
+    padding-left: 8px;
+    color:#ffffff;
+    padding-top: 25px;
+    display: inline-block;    
+}                                
+/*HEADER END*/
+
+
+.middle{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+/*Start Team*/
+.card-body{
+    font-size: small;
+}
+.fontcard{
+     color: #8BC53D;
+     padding: 2%;
+}
+
+
+/*End Team*/
+
+.blue{
+    background-color: #662E8F;
+    font: normal normal normal 52px/40px Baskervville;
+    opacity: 1;
+    color: white;
+}
+/*Start Form*/
+.frm{
+    background-image: url(../images/pen.png); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 25%;
+    padding-right: 25%;
+}/*End Form*/
+
+/*Start Footer*/
+.footer-color{
+    background-color: black;
+}
+.navleft{
+    color: #ffffff;
+}
+.font-foot{
+    color:#ffffff;
+    display: inline-block;
+}
+.address{
+    color: #ffffff;
+}
+/*End Footer*/
+
+/* start footnav*/
+.foot-nav{
+    color: white;
+    text-align: right;
+    padding-right: 11%;
+    padding-left: 0;
+    
+
+}
+.nav-link{
+    color:black;
+    display: inline-block;
+    padding: 5px;
+    margin: 0;
+}
+.ftnav{
+    list-style: none;
+    padding: 0;
+    margin:0;
+
+}
+.ftnav li{
+    list-style: none;
+    padding: 0;
+    margin:0;
+    display: inline-block;
+
+}
+
+
+
